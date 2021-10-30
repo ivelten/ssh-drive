@@ -4,8 +4,9 @@ Serviço de backup de arquivos montado com servidor SSH e Putty.
 
 ## Pré-requisitos
 
-1. Docker instalado e ativo
+1. Docker
 2. .NET Core 5.0
+3. Putty
 
 ## Como utilizar
 
